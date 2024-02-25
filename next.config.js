@@ -17,6 +17,9 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'files.stripe.com',
       },
+      {
+        hostname: 'm3cargo.com',
+      },
     ],
   },
   i18n,

@@ -4,10 +4,7 @@ import { useTranslation } from 'next-i18next';
 import type { NextPageWithLayout } from 'types';
 import { GetServerSidePropsContext } from 'next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-import FAQSection from '@/components/defaultLanding/FAQSection';
 import HeroSection from '@/components/defaultLanding/HeroSection';
-import FeatureSection from '@/components/defaultLanding/FeatureSection';
-import PricingSection from '@/components/defaultLanding/PricingSection';
 import useTheme from 'hooks/useTheme';
 import env from '@/lib/env';
 import Head from 'next/head';
@@ -26,7 +23,7 @@ const Home: NextPageWithLayout = () => {
         <div className="navbar bg-base-100 px-0 sm:px-1">
           <div className="flex-1">
             <Link href="/" className="btn btn-ghost text-xl normal-case">
-              BoxyHQ
+              m3cargo
             </Link>
           </div>
           <div className="flex-none">
@@ -43,14 +40,6 @@ const Home: NextPageWithLayout = () => {
               )}
               <li>
                 <Link
-                  href="/auth/join"
-                  className="btn btn-primary btn-md py-3 px-2 sm:px-4 text-white"
-                >
-                  {t('sign-up')}
-                </Link>
-              </li>
-              <li>
-                <Link
                   href="/auth/login"
                   className="btn btn-primary dark:border-zinc-600 dark:border-2 dark:text-zinc-200 btn-outline py-3 px-2 sm:px-4 btn-md"
                 >
@@ -61,12 +50,7 @@ const Home: NextPageWithLayout = () => {
           </div>
         </div>
         <HeroSection />
-        <div className="divider"></div>
-        <FeatureSection />
-        <div className="divider"></div>
-        <PricingSection />
-        <div className="divider"></div>
-        <FAQSection />
+        {/* <div className="divider"></div> */}
       </div>
     </>
   );

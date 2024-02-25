@@ -80,7 +80,7 @@ const env = {
   disableNonBusinessEmailSignup:
     process.env.DISABLE_NON_BUSINESS_EMAIL_SIGNUP === 'true' ? true : false,
 
-  authProviders: process.env.AUTH_PROVIDERS || 'github,credentials',
+  authProviders: process.env.AUTH_PROVIDERS || 'google',
 
   otel: {
     prefix: process.env.OTEL_PREFIX || 'boxyhq.saas',

@@ -11,7 +11,6 @@ const GoogleButton = () => {
   const callbackUrl = invitation
     ? `/invitations/${invitation.token}`
     : env.redirectIfAuthenticated;
-
   return (
     <Button
       className="btn btn-outline w-full"

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sound-psyche-394611",
+  "private_key_id": "1b5cfe6bb17f888e0f17222ab0a4bf7cb96895f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdfY45uhxW8xes\nzdYVKDDUxQ0+5GcE/MukeY5aeC4TRObbaxV8h5rtcNTtQC7FtZnjTzKnswmJQcD+\n/glU7ZjHIlvp1VGh/fkTNmfcih6X1hu38mWpjFJgR42VehaH5TFWGRUgQy09P3QG\ntK5m8/C3+j+kHa+pcSY97iBJauKF8xbVUtEkhjZ2PwQkfemPaFG09uPwUthcE0fH\nQBfy7b7wYjW3IpLQA735muivug1TE+7sOG4z2VWvY7RgHSw3s3QTnMzAcJCBe5x4\nx2O8oAdpBhuRfM0w+UZ9cuBxhJ7u1BIcH4ENbRJEpwv5NCHSVn9WIBJq2l5jUJxQ\ndr9cdw5VAgMBAAECggEAJLKZXoouCOAFI64FEwNSN+agP7PjN8nUyd8UDXxNEgdA\nAsnWyQfEzSN9PAP+2+YvZaCpIW0CHvpEils325j0T8YrGW6tNFxaqOrCQaGm2Pxy\nIkOowXNM8MPaOxJ76i84we2s+Of4dmXtiPDl1owDbdAqPDxo7vee4PLz6YYqmwux\nTozwlfXXRd4IANh/1dhV/YzOQOTNjBe34ods0P7mpUo9ujCATj6E+EbJllp35fyf\ncNmBkUjNkBhh2GW1gXyHNtDf6lTAnpYoAYgYGg2j9RrdDp8mf/z61ljOGivLksuQ\n3/N98skTTmGk4dGt1MJDXCLQm8luRkkrLK7dkSaGXwKBgQD7VjfgwR7fzy66MMgY\nnFw6eVZVe2QXZwplDRq8GWq5Ec33pL1GijOAizyETV9xayudw4sxjcbALcACl7kD\nYnTjCtmp25ybI18zM1E2HcpRLn/wsElLsilgT+T0HB9RZCPjQk5gU5QcWyuli0td\nBe2Kct9HKx72zyL2ZFgR6rEdlwKBgQDhmZNEiIykWquTQ7QaSUW86nu/RyiTRPN6\nqyr5OKjP2jJUt97JAe4zNDZjCXufCuTOUA/JWvBd9rgZ1DCT1wAAvbG1S8TD0I3e\nWGcQFolHNxkW3TA51TTzMiwDZDc0v9xQMt3ZdgHKxNuejYj20QFNSc35GhSLRI08\n6xfkvdbI8wKBgQDlgQFdVnue201L76eH8Z+2NX5EaHwpconnZGP5RyxQ+pUdgWzk\nsOX+hyYnmY+Bvd8CHMFJ6rCGZEBlHa5wDMO3Xv0LQeJrN42C72VFCUbpgpCJdDA5\n0uI9dDcZQWTHqa2ro6x2AVvJ2OauL9gNhZA3UFXaYuHPda3zWAWjtq8s2QKBgC5F\nk6Eg6MflGP/xiQVDNhyTc6I99CKQp+fnJ79KUcWgGWaq9/T+gl7aPLV/gm2SjG+M\nmFBSaK69JfGWRghstsFwJvzqd4c6RX7vXuQ72xhSQsEfyP5zrpKbHc/sRC57k7KX\nXE14GNIAIpOYsBj/sWaq1qZbJQ+TleyCw7nU/jLlAoGBAO/MsJzwpfmkz52e08jb\nvmOQbW0k/1LRaPH+xRULk1f+IimtiV990WESVFBF4Ale77iesZdd4CMKp1ZcYMHy\nte/qyAZQpvQ5ARFrDI5AO1mup1AT7vEcmV5rU3yjilewx7iQZnGwRke0j3C0Kr0B\nPlaat86uCznpH8MkutLe8tTl\n-----END PRIVATE KEY-----\n",
+  "client_email": "romanp@sound-psyche-394611.iam.gserviceaccount.com",
+  "client_id": "110041957869246364062",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/romanp%40sound-psyche-394611.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
